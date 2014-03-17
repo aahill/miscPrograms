@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
  *
  * @author Aaron
  */
-public class IsPalendrome {
+public class Palendrome {
     /**
      * determines if the given string is a palindrome
      * @param str the string to be evaluated
