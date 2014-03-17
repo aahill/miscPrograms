@@ -1,4 +1,4 @@
 miscPrograms
 ============
 
-various small programs
+small programs; more to be added later
